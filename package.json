@@ -7,10 +7,13 @@
     "build": "next build",
     "start": "next start",
     "lint": "eslint src --max-warnings=0",
-    "test": "jest",
-    "test:watch": "yarn test --watch",
+    "test": "jest --maxWorkers=50%",
+    "test:watch": "jest --watch --maxWorkers=25%",
+    "test:ci": "jest --runInBand",
     "storybook": "start-storybook -s ./public -p 6006",
-    "build-storybook": "build-storybook"
+    "build-storybook": "build-storybook -s ./public",
+    "postinstall": "husky install",
+    "prepare": "husky install"
   },
   "lint-staged": {
     "src/**/*": [

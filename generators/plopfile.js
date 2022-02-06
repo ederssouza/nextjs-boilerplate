@@ -11,12 +11,17 @@ module.exports = function (plop) {
     actions: [
       {
         type: 'add',
-        path: '../src/components/{{pascalCase name}}/index.tsx',
-        templateFile: 'templates/index.tsx.hbs'
+        path: '../src/components/{{pascalCase name}}/index.ts',
+        templateFile: 'templates/index.ts.hbs'
       },
       {
         type: 'add',
-        path: '../src/components/{{pascalCase name}}/stories.tsx',
+        path: '../src/components/{{pascalCase name}}/{{pascalCase name}}.tsx',
+        templateFile: 'templates/component.tsx.hbs'
+      },
+      {
+        type: 'add',
+        path: '../src/components/{{pascalCase name}}/{{pascalCase name}}.stories.tsx',
         templateFile: 'templates/stories.tsx.hbs'
       },
       {
@@ -26,7 +31,7 @@ module.exports = function (plop) {
       },
       {
         type: 'add',
-        path: '../src/components/{{pascalCase name}}/test.tsx',
+        path: '../src/components/{{pascalCase name}}/{{pascalCase name}}.spec.tsx',
         templateFile: 'templates/test.tsx.hbs'
       }
     ]

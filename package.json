@@ -9,6 +9,8 @@
     "lint": "eslint src --max-warnings=0",
     "test": "jest --maxWorkers=50%",
     "test:watch": "jest --watch --maxWorkers=25%",
+    "coverage-test": "jest --coverage --maxWorkers=50%",
+    "coverage-test:watch": "jest --coverage --watch --maxWorkers=25%",
     "test:ci": "jest --runInBand",
     "generate": "yarn plop --plopfile ./generators/plopfile.js",
     "storybook": "start-storybook -s ./public -p 6006",

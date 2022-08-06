@@ -26,13 +26,13 @@
   },
   "dependencies": {
     "next": "12.1.4",
-    "next-pwa": "^5.4.7",
+    "next-pwa": "^5.5.5",
     "react": "17.0.2",
     "react-dom": "17.0.2",
     "styled-components": "^5.3.5"
   },
   "devDependencies": {
-    "@babel/core": "^7.17.8",
+    "@babel/core": "^7.18.10",
     "@babel/preset-typescript": "^7.16.7",
     "@storybook/addon-essentials": "^6.5.10",
     "@storybook/react": "^6.4.22",
@@ -46,7 +46,7 @@
     "@typescript-eslint/parser": "^5.18.0",
     "babel-loader": "^8.2.4",
     "babel-plugin-styled-components": "^2.0.7",
-    "eslint": "8.12.0",
+    "eslint": "8.21.0",
     "eslint-config-next": "12.1.4",
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.0.0",

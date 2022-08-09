@@ -19,9 +19,9 @@ This project uses lot of stuff as:
 ## Starting NextJS project from boilerplate repository
 
 ```bash
-yarn create next-app --template https://github.com/ederssouza/nextjs-boilerplate
-# or
 npx create-next-app --template https://github.com/ederssouza/nextjs-boilerplate
+# or
+yarn create next-app --template https://github.com/ederssouza/nextjs-boilerplate
 ```
 
 ## Getting Started

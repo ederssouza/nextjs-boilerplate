@@ -2,10 +2,12 @@
 const withPWA = require('next-pwa')
 const isProd = process.env.NODE_ENV === 'production'
 
-module.exports = withPWA({
+const settings = {
   reactStrictMode: true,
   pwa: {
     dest: 'public',
     disable: !isProd
   }
-})
+}
+
+module.exports = isProd ? withPWA(settings) : settings

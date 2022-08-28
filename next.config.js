@@ -1,17 +1,16 @@
-// eslint-disable-next-line @typescript-eslint/no-var-requires
+/* eslint-disable @typescript-eslint/no-var-requires */
 const withPWA = require('next-pwa')
 const isProd = process.env.NODE_ENV === 'production'
 
-const settings = {
+const baseConfig = {
+  reactStrictMode: true,
   swcMinify: true,
-  experimental: {
-    // Enables the styled-components SWC transform
+  compiler: {
     styledComponents: true
-  },
-  pwa: {
-    dest: 'public',
-    disable: !isProd
   }
 }
 
-module.exports = isProd ? withPWA(settings) : settings
+/** @type {import('next').NextConfig} */
+const nextConfig = isProd ? withPWA(baseConfig) : baseConfig
+
+module.exports = nextConfig

@@ -34,7 +34,7 @@
   "devDependencies": {
     "@babel/core": "^7.21.4",
     "@babel/preset-typescript": "^7.21.4",
-    "@storybook/addon-essentials": "^7.0.2",
+    "@storybook/addon-essentials": "^7.0.5",
     "@storybook/addon-mdx-gfm": "^7.0.2",
     "@storybook/nextjs": "^7.0.2",
     "@storybook/react": "^7.0.2",

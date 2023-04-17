@@ -2216,12 +2216,12 @@
     "@storybook/global" "^5.0.0"
     "@storybook/preview-api" "7.0.2"
 
-"@storybook/addon-mdx-gfm@^7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-mdx-gfm/-/addon-mdx-gfm-7.0.2.tgz#b99b9ffc71bbf54b4a44a4a98001cc44213f3661"
-  integrity sha512-MS4K7cG99gmLogKzsks6t8OejzX0I23MX9niiXFuhe2s1pL2MkBRdkoJ3Bulc8HO8dgnMy7qrkFWy+KFUDn8FA==
+"@storybook/addon-mdx-gfm@^7.0.5":
+  version "7.0.5"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-mdx-gfm/-/addon-mdx-gfm-7.0.5.tgz#35d73e93339f2bec2cc93d6cd9539631ce67e6a8"
+  integrity sha512-96cxnD0KzoM88MoqtvyuwORTPQtKbJk+5YTBALUD51POGdnOspZ6gLygM+otECrPxYDluhMR3Wx15HFc+C437g==
   dependencies:
-    "@storybook/node-logger" "7.0.0-beta.52"
+    "@storybook/node-logger" "7.0.5"
     remark-gfm "^3.0.1"
     ts-dedent "^2.0.0"
 
@@ -2743,20 +2743,20 @@
     tsconfig-paths "^4.0.0"
     tsconfig-paths-webpack-plugin "^3.5.2"
 
-"@storybook/node-logger@7.0.0-beta.52":
-  version "7.0.0-beta.52"
-  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.0-beta.52.tgz#87ac562370b80ca6bc9f0f58549f31838019d525"
-  integrity sha512-F6F3QxsNWCg23eqvNgNYjta90nH3DPiBUyQa+iE/4YQhIdkYBzYMiYhQjF/sKr/gW3GPMXZxP93emqzADGaE1w==
+"@storybook/node-logger@7.0.2":
+  version "7.0.2"
+  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.2.tgz#696f8017017e343be8b08dcee4fde9cab068e5d9"
+  integrity sha512-UENpXxB1yDqP7JXaODJo+pbGt5y3NFBNurBr4+pI4bMAC4ARjpgRE4wp6fxUKFPu9MAR10oCdcLEHkaVUAjYRg==
   dependencies:
     "@types/npmlog" "^4.1.2"
     chalk "^4.1.0"
     npmlog "^5.0.1"
     pretty-hrtime "^1.0.3"
 
-"@storybook/node-logger@7.0.2":
-  version "7.0.2"
-  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.2.tgz#696f8017017e343be8b08dcee4fde9cab068e5d9"
-  integrity sha512-UENpXxB1yDqP7JXaODJo+pbGt5y3NFBNurBr4+pI4bMAC4ARjpgRE4wp6fxUKFPu9MAR10oCdcLEHkaVUAjYRg==
+"@storybook/node-logger@7.0.5":
+  version "7.0.5"
+  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.5.tgz#7619f65015701e1ca17026467b0f277c118342f6"
+  integrity sha512-REBIMItpBVn9tpo2JXP3eyHg9lsYSt1JqWFaEncdKEiXWArv5c8pN6/od7MB3sU3NdHwEDKwLel2fZaDbg3jBQ==
   dependencies:
     "@types/npmlog" "^4.1.2"
     chalk "^4.1.0"

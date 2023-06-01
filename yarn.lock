@@ -2442,16 +2442,6 @@
     tsconfig-paths "^4.0.0"
     tsconfig-paths-webpack-plugin "^3.5.2"
 
-"@storybook/node-logger@7.0.11":
-  version "7.0.11"
-  resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.11.tgz#cc0bfddeb52484c6cded5c717d3bd8c6357071b0"
-  integrity sha512-N28h8aU5QglfaaM/wjpk0e7AAX8f1KBQXKArnRePHeK9M5L6w/BQQ5BcRAhcvQKZ6eOpHyADaRMHqxCxkY8qmw==
-  dependencies:
-    "@types/npmlog" "^4.1.2"
-    chalk "^4.1.0"
-    npmlog "^5.0.1"
-    pretty-hrtime "^1.0.3"
-
 "@storybook/node-logger@7.0.18":
   version "7.0.18"
   resolved "https://registry.yarnpkg.com/@storybook/node-logger/-/node-logger-7.0.18.tgz#efed2e8b79964e7d999b64b0e99fa79f9356904e"
@@ -2955,10 +2945,10 @@
     "@types/node" "*"
     form-data "^3.0.0"
 
-"@types/node@*", "@types/node@^20.1.4":
-  version "20.1.4"
-  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.1.4.tgz#83f148d2d1f5fe6add4c53358ba00d97fc4cdb71"
-  integrity sha512-At4pvmIOki8yuwLtd7BNHl3CiWNbtclUbNtScGx4OHfBd4/oWoJC8KRCIxXwkdndzhxOsPXihrsOoydxBjlE9Q==
+"@types/node@*", "@types/node@^20.2.5":
+  version "20.2.5"
+  resolved "https://registry.yarnpkg.com/@types/node/-/node-20.2.5.tgz#26d295f3570323b2837d322180dfbf1ba156fefb"
+  integrity sha512-JJulVEQXmiY9Px5axXHeYGLSjhkZEnD+MDPDGbCbIAbMslkKwmygtZFy1X6s/075Yo94sf8GuSlFfPzysQrWZQ==
 
 "@types/node@^16.0.0":
   version "16.18.23"

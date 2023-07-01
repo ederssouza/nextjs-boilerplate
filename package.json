@@ -35,7 +35,7 @@
     "@babel/core": "^7.22.1",
     "@babel/preset-typescript": "^7.21.5",
     "@storybook/addon-essentials": "^7.0.18",
-    "@storybook/addon-mdx-gfm": "^7.0.18",
+    "@storybook/addon-mdx-gfm": "^7.0.24",
     "@storybook/nextjs": "^7.0.18",
     "@storybook/react": "^7.0.7",
     "@testing-library/jest-dom": "^5.16.5",

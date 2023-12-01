@@ -38,7 +38,7 @@
     "@storybook/addon-mdx-gfm": "^7.4.0",
     "@storybook/nextjs": "^7.4.5",
     "@storybook/react": "^7.6.2",
-    "@testing-library/jest-dom": "^6.1.4",
+    "@testing-library/jest-dom": "^6.1.5",
     "@testing-library/react": "^14.1.2",
     "@types/jest": "^29.5.7",
     "@types/node": "^20.8.10",

@@ -37,7 +37,7 @@
     "@storybook/addon-essentials": "^7.6.2",
     "@storybook/addon-mdx-gfm": "^7.6.13",
     "@storybook/nextjs": "^7.4.5",
-    "@storybook/react": "^7.6.13",
+    "@storybook/react": "^7.6.17",
     "@testing-library/jest-dom": "^6.4.2",
     "@testing-library/react": "^14.1.2",
     "@types/jest": "^29.5.11",

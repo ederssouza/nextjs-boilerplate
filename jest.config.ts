@@ -22,6 +22,7 @@ const config: Config = {
     '!src/components/*/index.ts',
     '!src/pages/_app.tsx',
     '!src/pages/_document.tsx',
+    '!src/styles/**/*',
     '!src/types/**/*'
   ]
 }

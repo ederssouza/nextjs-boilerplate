@@ -32,7 +32,7 @@
     "styled-components": "^6.1.13"
   },
   "devDependencies": {
-    "@storybook/addon-essentials": "^8.4.6",
+    "@storybook/addon-essentials": "^8.4.7",
     "@storybook/addon-mdx-gfm": "^8.4.6",
     "@storybook/nextjs": "^8.2.7",
     "@storybook/react": "^8.2.4",

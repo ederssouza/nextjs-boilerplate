@@ -1878,10 +1878,10 @@
   dependencies:
     "@storybook/global" "^5.0.0"
 
-"@storybook/addon-mdx-gfm@^8.5.2":
-  version "8.5.2"
-  resolved "https://registry.yarnpkg.com/@storybook/addon-mdx-gfm/-/addon-mdx-gfm-8.5.2.tgz#166744110cbaafd18a245cedc265757620775c23"
-  integrity sha512-UuJDa2Asch8Z6H+vzLg+/VQQNbHhqmDtn8OSfNHo6Lr6a0uk6LofYKvP/nB7i6wMUvnaM+Qh/b5hAI/VCXitBQ==
+"@storybook/addon-mdx-gfm@^8.6.3":
+  version "8.6.3"
+  resolved "https://registry.yarnpkg.com/@storybook/addon-mdx-gfm/-/addon-mdx-gfm-8.6.3.tgz#310d2d81fc5f5cbc2056d60b838afbc0948cea97"
+  integrity sha512-SNHrYeGLqV1Ym1tDWQpDYU83o0R/cDRsFT4O1kiHTkb/QFZ3XZw1oq2bn02Bvt3LZTJ8KYiT3Iqf1mYWjcDkMQ==
   dependencies:
     remark-gfm "^4.0.0"
     ts-dedent "^2.0.0"

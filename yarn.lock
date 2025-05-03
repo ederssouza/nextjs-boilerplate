@@ -1968,12 +1968,12 @@
     "@types/node" "^22.0.0"
     ts-dedent "^2.0.0"
 
-"@storybook/core@8.6.11":
-  version "8.6.11"
-  resolved "https://registry.yarnpkg.com/@storybook/core/-/core-8.6.11.tgz#5e70a374cc2e1dcb92ac78ab5dee48b654a2ed75"
-  integrity sha512-fhzLQ9HpljbLpkHykafmcjIERHI5j6SZhylFCDwEWkETuZtRbyCs3mmULutcEOzKhxRgNtiIRoRmZPdQcPtHNg==
+"@storybook/core@8.6.12":
+  version "8.6.12"
+  resolved "https://registry.yarnpkg.com/@storybook/core/-/core-8.6.12.tgz#ad6d7587f8a8b9f05764ba39f99c1e67e1ba341f"
+  integrity sha512-t+ZuDzAlsXKa6tLxNZT81gEAt4GNwsKP/Id2wluhmUWD/lwYW0uum1JiPUuanw8xD6TdakCW/7ULZc7aQUBLCQ==
   dependencies:
-    "@storybook/theming" "8.6.11"
+    "@storybook/theming" "8.6.12"
     better-opn "^3.0.2"
     browser-assert "^1.2.1"
     esbuild "^0.18.0 || ^0.19.0 || ^0.20.0 || ^0.21.0 || ^0.22.0 || ^0.23.0 || ^0.24.0 || ^0.25.0"
@@ -2158,10 +2158,10 @@
     "@vitest/spy" "2.0.5"
     util "^0.12.4"
 
-"@storybook/theming@8.6.11":
-  version "8.6.11"
-  resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-8.6.11.tgz#c44043311e193e6c5330843f32ec1777692fbe20"
-  integrity sha512-G7IK5P9gzofUjfYhMo9Pdgbqcr22eoKFLD808Q8RxJopDoypdZKg4tes2iD+6YnrtnHS0nEoP/soMmfFYl9FIw==
+"@storybook/theming@8.6.12":
+  version "8.6.12"
+  resolved "https://registry.yarnpkg.com/@storybook/theming/-/theming-8.6.12.tgz#2d521f422daf85e0b27179520ce1cfb520284447"
+  integrity sha512-6VjZg8HJ2Op7+KV7ihJpYrDnFtd9D1jrQnUS8LckcpuBXrIEbaut5+34ObY8ssQnSqkk2GwIZBBBQYQBCVvkOw==
 
 "@storybook/theming@^8.3.5":
   version "8.3.5"
@@ -10156,12 +10156,12 @@ stdin-discarder@^0.2.2:
   resolved "https://registry.npmjs.org/stdin-discarder/-/stdin-discarder-0.2.2.tgz"
   integrity sha512-UhDfHmA92YAlNnCfhmq0VeNL5bDbiZGg7sZ2IvPsXubGkiNa9EC+tUTsjBRsYUAz87btI6/1wf4XoVvQ3uRnmQ==
 
-storybook@^8.6.11:
-  version "8.6.11"
-  resolved "https://registry.yarnpkg.com/storybook/-/storybook-8.6.11.tgz#3cde1c3430a0578bf63985cca865816ff82a4aa9"
-  integrity sha512-B2wxpmq1QYS4JV7RQu1mOHD7akfoGbuoUSkx2D2GZgv/zXAHZmDpSFcTvvBBm8FAtzChI9HhITSJ0YS0ePfnJQ==
+storybook@^8.6.12:
+  version "8.6.12"
+  resolved "https://registry.yarnpkg.com/storybook/-/storybook-8.6.12.tgz#dddd11644f0344524577bb600a4dabda9a73af55"
+  integrity sha512-Z/nWYEHBTLK1ZBtAWdhxC0l5zf7ioJ7G4+zYqtTdYeb67gTnxNj80gehf8o8QY9L2zA2+eyMRGLC2V5fI7Z3Tw==
   dependencies:
-    "@storybook/core" "8.6.11"
+    "@storybook/core" "8.6.12"
 
 stream-browserify@^3.0.0:
   version "3.0.0"

@@ -57,7 +57,7 @@
     "lint-staged": "^16.2.6",
     "plop": "^4.0.4",
     "prettier": "3.6.2",
-    "storybook": "^8.6.14",
+    "storybook": "^8.6.15",
     "ts-node": "^10.9.2",
     "typescript": "^5.9.3"
   }

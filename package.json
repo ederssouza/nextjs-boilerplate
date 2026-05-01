@@ -59,6 +59,6 @@
     "prettier": "3.8.1",
     "storybook": "^8.6.15",
     "ts-node": "^10.9.2",
-    "typescript": "^5.9.3"
+    "typescript": "^6.0.3"
   }
 }
